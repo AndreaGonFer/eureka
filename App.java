@@ -4,6 +4,7 @@ public class App {
     System.out.println("Andrea González");
     System.out.println("Trobajo del Camino");
     System.out.println("11/11/2021");
+    System.out.println("Morado");
   }
   
 }
